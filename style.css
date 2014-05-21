@@ -1,0 +1,14 @@
+body{
+	background-image: url("file://localhost/Users/GraceLewis/Desktop/Website/ProfilePage/ice-hockey-twitter-background.jpg");
+	margin: 0;
+	padding: 0;
+}
+#header{
+	width: 100%;
+	height: 70px;
+	border: 2px solid #FF6699;
+	background-color: #FF6699;
+	text-align: center;
+	font-family: cursive;
+	line-height: 25px;
+}
